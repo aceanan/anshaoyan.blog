@@ -2,3 +2,4 @@
 安绍岩的Github博客
 
 http://aceanan.github.io/anshaoyan.blog/
+http://my.oschina.net/anshaoyan/blog
