@@ -1,8 +1,6 @@
-title: Anshaoyan.Blog
-description: 安绍岩的Github博客
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-cayman
+permalink: /:title
 
-gems:
-  - jekyll-mentions
+title: BeiYuu.com
+url: http://beiyuu.com
+feed: /atom.xml
+author_info: <a href="http://beiyuu.com/">BeiYuu</a>
