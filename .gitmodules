@@ -1,6 +1,0 @@
-[submodule "libs/docker-py"]
-	path = libs/docker-py
-	url = https://github.com/docker/docker-py.git
-[submodule "libs/tests"]
-	path = libs/tests
-	url = https://github.com/aceanan/tests.git
