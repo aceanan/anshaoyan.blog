@@ -1,4 +1,4 @@
-# 安绍岩的Github博客
+# 安绍岩的博客
 
 Github: http://aceanan.github.io/anshaoyan.blog/
 
